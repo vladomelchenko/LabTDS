@@ -31,7 +31,7 @@ namespace LabTDS
             }
             else
             {
-                textBox2.Text += $"${Environment.NewLine}{Environment.NewLine}Не доказано";
+                textBox2.Text += $"{Environment.NewLine}{Environment.NewLine}Не доказано";
             }
         }
     }

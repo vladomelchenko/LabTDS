@@ -41,6 +41,7 @@ namespace LabTDS
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(261, 426);
             this.textBox1.TabIndex = 0;
+            this.textBox1.Text = "X\r\n~X,Y\r\n~Y,~X\r\n~Z";
             // 
             // button1
             // 
